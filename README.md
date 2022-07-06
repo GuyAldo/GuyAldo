@@ -1,10 +1,5 @@
 ## Hello! Pode me chamar de Guy 
-<div align="center">
-  <a href="https://github.com/GuyAldo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuyAldo&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuyAldo&theme=radical&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuyAldo&show_icons=true&theme=dark)
   <div style="display: inline_block"><br>
   <img align="center" alt="Guy-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Guy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
