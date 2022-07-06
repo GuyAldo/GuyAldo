@@ -1,5 +1,6 @@
 ## Hello! Pode me chamar de Guy 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuyAldo&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuyAldo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <div style="display: inline_block"><br>
   <img align="center" alt="Guy-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Guy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
